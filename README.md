@@ -1,1 +1,6 @@
-# DataEcosytemSurvey
+# A conceptual deep dive into data ecosystems: a systematic literature review
+
+This repository contains the datafile gathered, and used, in the research paper ["A conceptual deep dive into data ecosystems: a systematic literature review"](https://doi.org/10.1007/s10257-026-00719-8). In this research a literature survey on the data ecosystem concept was performed. The datasets on the extracted and selected papers, as well as the datasets on the coding are provided below. 
+
+### Licencing
+This dataset belonging to the research paper, submitted to Information Systems and e-Business Management, "A conceptual deep dive into data ecosystems: a systematic literature review" © 2026 by Maarten de Mildt, Sander Van Damme, Sofie Verbrugge, and Didier Colle is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/. Additionally to this licence, we ask to cite the research paper, in any work based on this dataset (such as a study, scientific paper, presentation...) as follows: de Mildt, M., Van Damme, S., Verbrugge, S. et al. A conceptual deep dive into data ecosystems: a systematic literature review. Inf Syst E-Bus Manage (2026). https://doi.org/10.1007/s10257-026-00719-8
